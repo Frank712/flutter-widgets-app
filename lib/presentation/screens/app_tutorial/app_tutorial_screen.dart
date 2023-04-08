@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppTutorialScreen extends StatelessWidget {
-  final name = 'app_tutorial_screen';
+  static const name = 'app_tutorial_screen';
   const AppTutorialScreen({super.key});
 
   @override
